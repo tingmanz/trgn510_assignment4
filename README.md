@@ -10,7 +10,7 @@ $ ./ensg2hugo.py -f 2 expres.anal.csv
 and we change the Ensembl gene names in column 2 to HUGO name with -f 2 option. The first column would be used if we don't specify the column number. The column number could be changed to wirk with our csv file with our option. 
 
 ## Known Issues
-There will be some ensembl names which do not have a match in the dictionary. "Unknown" would be shlwde in the gene name column in the file.  
+There will be some ensembl names which do not have a match in the dictionary. "Unknown" would be shown in the gene name column in the file.  
 
 ## Dependencies
 - git 
