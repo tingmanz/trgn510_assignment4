@@ -7,7 +7,7 @@ In this 4th week assignment, I create a program called ensg2hugo.py that takes a
 - The script is generated that with a gtf file named "Homo_sapiens.GRCh37.75.gtf". This file could be downloaded to our server. 
 - There is a .csv for unit test in the repository we got, and we could use 
 $ ./ensg2hugo.py -f 2 expres.anal.csv 
-and we change the Ensembl gene names in column 2 to HUGO name with -f 2 option. The first column would be used if we don't specify the column number. The column number could be changed to wirk with our csv file with our option. 
+and we change the Ensembl gene names in column 2 to HUGO name with -f 2 option. The first column would be used if we don't specify the column number. The column number could be changed to work with our csv file with our option. 
 
 ## Known Issues
 There will be some ensembl names which do not have a match in the dictionary. "Unknown" would be shown in the gene name column in the file.  
