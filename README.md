@@ -1,4 +1,4 @@
-# trgn_homework4
+# trgn510_homework4
 In this 4th week assignment, I create a program called ensg2hugo.py that takes a comma-delimited file as an argument and a column number as an input, and print a file where the Ensembl gene name has changed to a HUGO name.
 
 ## Installation & Usage
